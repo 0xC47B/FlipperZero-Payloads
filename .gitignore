@@ -1,0 +1,85 @@
+# =====================
+# OS / Editor junk
+# =====================
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# =====================
+# Python (tools / generators)
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# =====================
+# Flipper Zero runtime data
+# =====================
+/ext/apps_data/
+/ext/cache/
+/ext/logs/
+/ext/updates/
+
+# =====================
+# BadUSB (generated / compiled)
+# =====================
+badusb/output/
+*.duckyscript.bin
+
+# =====================
+# Sub-GHz (captures / dumps)
+# =====================
+*.sub
+subghz/captures/
+
+# =====================
+# Infrared (captures)
+# =====================
+*.ir
+infrared/captures/
+
+# =====================
+# NFC / RFID / iButton (SENSITIVE)
+# =====================
+*.nfc
+*.mfkey
+*.ibtn
+nfc/dumps/
+
+# =====================
+# Archives / exports
+# =====================
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+# =====================
+# Logs / output
+# =====================
+*.log
+output/
+results/
+
+# =====================
+# Secrets / credentials
+# =====================
+.env
+*.key
+*.pem
+*.crt
+id_rsa*
+id_dsa*
+
+# =====================
+# Core dumps / crash
+# =====================
+core.*
+*.dump
