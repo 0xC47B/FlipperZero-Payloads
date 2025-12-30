@@ -83,3 +83,4 @@ id_dsa*
 # =====================
 core.*
 *.dump
+*.Identifier
