@@ -1,7 +1,7 @@
 REM ################################################
 REM #                                              |
 REM # Title        : Call Someone With An iPhone   |
-REM # Author       : Aleff                         |
+REM # Author       : 0xc47b                         |
 REM # Version      : 1.0                           |
 REM # Category     : Prank                         |
 REM # Target       : iPhone                        |
